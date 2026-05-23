@@ -1,0 +1,6 @@
+{
+  "name": "PrepAI",
+  "description": "An interactive AI-powered mock interview and study mentor web app that generates targeted technical questions and provides deep analytical scores, strengths, and sample answers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
